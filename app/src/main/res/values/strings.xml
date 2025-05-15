@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Validador de Notas</string>
+    <string name="btn_validar">VALIDAR</string>
+    <string name="hint_nota">0 - 100</string>
+    <string name="label_nota">Ingrese la nota a validar:</string>
+    <string name="parcial">Parcial #1</string>
+    <string name="estudiantes">Eduardo Maestre\nDavid Zhang</string>
+</resources>
